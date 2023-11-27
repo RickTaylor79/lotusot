@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://default/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://lotusot.co.uk/">
   <channel>
     <title>Lotus OT - Specialised occupational therapy services </title>
-    <link>http://default/</link>
+    <link>http://lotusot.co.uk/</link>
     <description/>
     <language>en</language>
     
     <item>
   <title>Home</title>
-  <link>http://default/home</link>
+  <link>http://lotusot.co.uk/home</link>
   <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Home&lt;/span&gt;
 &lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span&gt;rick&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Mon, 11/27/2023 - 11:13&lt;/span&gt;
@@ -17,7 +17,7 @@
       &lt;div class="l-bl block block-config-provider--layout-builder block-plugin-id--field-block-nodepagebody"&gt;
   &lt;div class="block__inner"&gt;
 
-    &lt;div class="block__content"&gt;&lt;div class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div class="field__item"&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque urna in convallis bibendum. Nam&lt;img src="http://default/sites/default/files/inline-images/Me%20ID%20%283%29_2.JPG" data-entity-uuid="926a016e-b8ce-4ed1-bd94-42d0d5a0a779" data-entity-type="file" alt="Sam Taylor" width="24.43%" class="align-right" height="1438" loading="lazy" /&gt; malesuada fermentum augue quis volutpat. In hac habitasse platea dictumst. Curabitur quis fringilla lacus. In convallis commodo gravida. Nullam scelerisque quis magna ut interdum. Morbi quis cursus turpis. Proin a lorem a magna mattis efficitur non et nisl. Quisque lectus ipsum, bibendum placerat dui aliquam, eleifend molestie ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi mollis eros eu sapien cursus dapibus.&lt;/p&gt;&lt;p&gt;Aliquam erat volutpat. Nam consequat suscipit velit, sed porttitor lorem varius nec. Maecenas sed ante dui. In ut orci non felis malesuada placerat ut ut enim. Praesent sed vestibulum metus. Duis ultrices eget nibh nec cursus. Aliquam eu tortor aliquet, pharetra lorem ac, tristique lectus. In pretium dignissim lorem sit amet vehicula. Aliquam lobortis viverra ex, eu tempus erat dictum quis. In quis eros sed velit ultricies mollis sagittis at neque. Pellentesque facilisis blandit laoreet. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="block__content"&gt;&lt;div class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div class="field__item"&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque urna in convallis bibendum. Nam&lt;img src="http://lotusot.co.uk/sites/default/files/inline-images/Me%20ID%20%283%29_2.JPG" data-entity-uuid="926a016e-b8ce-4ed1-bd94-42d0d5a0a779" data-entity-type="file" alt="Sam Taylor" width="24.43%" class="align-right" height="1438" loading="lazy" /&gt; malesuada fermentum augue quis volutpat. In hac habitasse platea dictumst. Curabitur quis fringilla lacus. In convallis commodo gravida. Nullam scelerisque quis magna ut interdum. Morbi quis cursus turpis. Proin a lorem a magna mattis efficitur non et nisl. Quisque lectus ipsum, bibendum placerat dui aliquam, eleifend molestie ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi mollis eros eu sapien cursus dapibus.&lt;/p&gt;&lt;p&gt;Aliquam erat volutpat. Nam consequat suscipit velit, sed porttitor lorem varius nec. Maecenas sed ante dui. In ut orci non felis malesuada placerat ut ut enim. Praesent sed vestibulum metus. Duis ultrices eget nibh nec cursus. Aliquam eu tortor aliquet, pharetra lorem ac, tristique lectus. In pretium dignissim lorem sit amet vehicula. Aliquam lobortis viverra ex, eu tempus erat dictum quis. In quis eros sed velit ultricies mollis sagittis at neque. Pellentesque facilisis blandit laoreet. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -32,7 +32,7 @@
 </description>
   <pubDate>Mon, 27 Nov 2023 11:13:49 +0000</pubDate>
     <dc:creator>rick</dc:creator>
-    <guid isPermaLink="false">4 at http://default</guid>
+    <guid isPermaLink="false">4 at http://lotusot.co.uk</guid>
     </item>
 
   </channel>
