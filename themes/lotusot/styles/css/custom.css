@@ -5,59 +5,20 @@
 l-bl block block-config-provider--layout-builder block-plugin-id--inline-block-basic has-title block--type-basic block--view-mode-full
  ============================================================================ */
 
-.txtbox {
-  position: relative;
-  color: white;
-background-colour:black;
-}
-.txtbox .h2{
-size:20em;
-}
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-.centered {
-  position: absolute;
-  top: 35%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color:white;
-padding:2em;
-background-color: rgba(0, 0, 0, 0.3);
-}
-.centered .p {
-}
 .lotusot-slideshow-0 {
 height:400px;
 }
 #block-whowesupport{
-padding:5%;
-height: 80%;
+padding:1.5em;
+
 }
 
 #block-clients{
-padding:5%;
-height: 80%;
+padding:1.5em;
+
 }
 
 #block-conditionsweworkwith{
-padding:5%;
-height: 80%;
+padding:1.5em;
+
 }

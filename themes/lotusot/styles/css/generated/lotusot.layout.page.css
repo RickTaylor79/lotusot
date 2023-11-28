@@ -12,12 +12,14 @@
   flex-direction: row;
   max-width: 75em;
   width: 100%;
+   
 }
 
 .l-r {
   flex: 0 0 auto;
   padding: 0 0.625em;
   width: 100%;
+
 }
 
 /* Begin breakpoint: wide */
@@ -27,7 +29,7 @@
 .l-header { -webkit-order: -10; -ms-flex-order: -10; order: -10; }
 .l-navbar { -webkit-order: -7; -ms-flex-order: -7; order: -7; }
 .l-highlighted { -webkit-order: -8; -ms-flex-order: -8; order: -8; }
-.l-features { -webkit-order: -6; -ms-flex-order: -6; order: -6; }
+.l-features { -webkit-order: -6; -ms-flex-order: -6; order: -6;  }
 .l-content-prefix { -webkit-order: -5; -ms-flex-order: -5; order: -5; }
 .l-main { -webkit-order: -4; -ms-flex-order: -4; order: -4; }
 .l-content-suffix { -webkit-order: -3; -ms-flex-order: -3; order: -3; }
