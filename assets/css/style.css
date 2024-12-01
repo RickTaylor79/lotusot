@@ -2,9 +2,9 @@
 body {
     font-family: 'Poppins', sans-serif;
      color: #2C392C; /* Deep green for text */
-     margin: 20;
-     padding-left: 40px;
-     padding-right: 40px;
+     margin: 0;
+     padding-left: 10px;
+     padding-right: 10px;
 	 
      background-color: #EFEDE6; /* Light beige */
 }
@@ -38,7 +38,7 @@ a {
 .navbar ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 5px;
     background-color: #4D704D;
     display: flex;
     justify-content: center;
@@ -84,20 +84,18 @@ a {
 
 /* About Section */
 .about-container {
-    display: grid;
-    grid-template-columns: repeat(2, 2fr);
+    display: flex;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
-.about-text, .about-list, .about-image img {
-    max-width: 100%;
-    border-radius: 8px;
+.about-text   {
+	 flex: 1;
 }
 
-.about-image{
-	
-	  width: 80%;
-	  padding-left:20%;
+.about-image img{
+    max-width: 100%;
+    border-radius: 8px;
 }
 
 /* Services Section */
